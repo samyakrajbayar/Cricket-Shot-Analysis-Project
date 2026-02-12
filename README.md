@@ -1,7 +1,7 @@
 # Cricket Shot Analysis Project
 
 ## Overview
-This project uses MediaPipe and OpenCV to detect and analyze cricket shot poses (specifically the Cover Drive). It provides real-time feedback on body posture, including knee bend and elbow position.
+This project uses MediaPipe and OpenCV to detect and analyze cricket shot poses (specifically the Cover Drive). It provides real-time feedback on body posture, including knee bend and elbow position. 
 
 ## Features
 - **Pose Detection**: Real-time skeleton tracking.
@@ -32,3 +32,5 @@ This project uses MediaPipe and OpenCV to detect and analyze cricket shot poses 
 -   `pose_module.py`: Handles MediaPipe pose estimation.
 -   `shot_analysis.py`: Logic for analyzing cricket shots.
 -   `visualizer.py`: Handles drawing and UI overlays.
+
+## Good Luck and have fun
